@@ -137,3 +137,14 @@ header h1{
     background: #595c93;
     bottom: 0;
 }
+
+.form-recover{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 35px 0 25px;
+}
+
+.form-recover a{
+    text-decoration: none;
+}
