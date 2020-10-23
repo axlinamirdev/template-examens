@@ -102,6 +102,7 @@ header h1{
     justify-content: center;
     outline: none;
     cursor: pointer;
+    box-shadow: -5px 1px 20px 0px #7bc6bf;
 }
 
 .form-container button img{
