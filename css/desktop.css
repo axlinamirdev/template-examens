@@ -1,0 +1,28 @@
+body{
+	display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-position: right;
+    padding-right: 60px;
+    justify-content: center;
+    padding-left: 0;
+    background-position-x: 0;   
+}
+
+.container-nano{
+	align-items: center;
+    width: 380px;
+    justify-content: center;
+    align-self: center;
+    padding: 0;
+}
+
+.form-container, .container-img{
+	width: 380px;
+}
+
+.form-container input{
+	width: 315px;
+}

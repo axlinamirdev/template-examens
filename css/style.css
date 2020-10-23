@@ -16,6 +16,7 @@ header{
     display: flex;
     padding-left: 30px;
     padding-top: 10px;
+    background-repeat: no-repeat;
 }
 
 header h1{
@@ -28,14 +29,14 @@ header h1{
 .container-nano{
 	display: flex;
 	flex-direction: column;
-	padding: 20px;
+	padding: 20px 30px;
 }
 
 .container-nano .information{
-	font-size: 1.3rem;
+	font-size: 1.2rem;
     color: #595c93;
     line-height: 1.3;
-    margin-bottom: 20px;
+    margin: 20px 0 30px 0;
     text-align: justify;
 }
 
