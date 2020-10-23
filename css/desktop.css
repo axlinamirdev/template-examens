@@ -27,6 +27,11 @@ header{
 	width: 315px;
 }
 
-.container-nano .information{
-	font-size: 1.3rem;
+.contain-message .message-text {
+    width: 550px;
+}
+
+.banner-result img{
+    width: 100vw;
+    height: 65vh;
 }
