@@ -25,10 +25,11 @@ header{
 }
 
 header h1{
-	align-self: center;
+    font-family: 'Ubuntu', sans-serif;
+    align-self: center;
     font-size: 1.6rem;
     color: #595c93;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .container-nano{
@@ -85,7 +86,7 @@ header h1{
 }
 
 .form-container label{
-	color: #000;
+	color: #1D2A3B;
 	font-weight: 800;
 }
 
@@ -129,7 +130,7 @@ header h1{
 
 
 .container-img img{
-    width: 200px;
+    width: 60%;
     text-align: center;
 }
 
@@ -141,8 +142,8 @@ header h1{
 
 .form-recover{
     text-align: center;
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-size: 1.3rem;
+    font-weight: 400;
     margin: 35px 0 25px;
 }
 
