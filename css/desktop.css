@@ -26,3 +26,7 @@ header{
 .form-container input{
 	width: 315px;
 }
+
+.container-nano .information{
+	font-size: 1.3rem;
+}
