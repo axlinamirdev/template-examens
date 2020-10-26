@@ -258,8 +258,9 @@ button img{
 
 .form-body .link-back.link-change a{
     color: #df9494;
-    font-weight: 700;
+    font-weight: 500;
     text-decoration: none;
+    font-size: 1.2rem;
 }
 
 .info-result-card{
@@ -281,21 +282,29 @@ button img{
     font-size: 1.3rem;
 }
 
+.info-result-card .result-column{
+    background: #FAFAFF;
+    width: 130px;
+    padding: 10px 15px;
+}
 
-.result-column .form-button-result{
+
+.result-column-btn .form-button-result{
+    background: #fff;
     height: 40px;
     background-color: #fff;
     color: #7bc6bf;
     outline: none;
     cursor: pointer;
-    font-weight: 750;
+    font-weight: 500;
     border: 1px solid #7bc6bf;
     border-radius: 5px;
     width: 100%;
     padding: 5px;
+    font-size: 1.2rem;
 }
 
-.result-column .form-button-result:hover, .result-column .form-button-result:active{
+.result-column-btn .form-button-result:hover, .result-column-btn .form-button-result:active{
     box-shadow: -5px 1px 20px 0px #7bc6bf;
     background-color: #7bc6bf;
     color: #fff;
@@ -309,7 +318,7 @@ button img{
 }
 
 .ficha-container{
-    background: #f5efef;
+    background: #FAFAFF;
     margin-bottom: 15px;
     padding: 10px 15px;
 }
