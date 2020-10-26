@@ -286,14 +286,13 @@ button img{
     height: 40px;
     background-color: #fff;
     color: #7bc6bf;
-    border: none;
     outline: none;
     cursor: pointer;
     font-weight: 750;
     border: 1px solid #7bc6bf;
     border-radius: 5px;
     width: 100%;
-    padding: 10px;
+    padding: 5px;
 }
 
 .result-column .form-button-result:hover, .result-column .form-button-result:active{
