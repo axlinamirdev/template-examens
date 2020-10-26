@@ -96,7 +96,7 @@ header{
 
 button{
     height: 40px;
-    background-color: #7bc6bf;
+    background-color: #508984;
     color: #fff;
     border: none;
     display: flex;
@@ -114,7 +114,11 @@ button{
     width: 100%;
 }
 
-button img{
+.form-container .form-button:hover, .form-container .form-button:active{
+    background: #7bc6bf;
+}
+
+.form-container .form-button img{
      margin-left: 10px;
     width: 15px;
 }
