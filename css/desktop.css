@@ -11,6 +11,10 @@ header{
     background-position-x: 0;   
 }
 
+.header-img{
+    background-position-x: 0;
+}
+
 .container-nano{
 	align-items: center;
     width: 380px;
