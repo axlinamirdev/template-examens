@@ -285,7 +285,8 @@ button img{
 .info-result-card .result-column{
     background: #FAFAFF;
     width: 130px;
-    padding: 10px 15px;
+    padding: 10px 10px;
+    margin-right: 5px;
 }
 
 
